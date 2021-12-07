@@ -1,612 +1,619 @@
-Incident Date,State,City Or County,Killed,Injured,Killed Or Injured
-"December 31, 2020",Indiana,Indianapolis,1,3,4
-"December 31, 2020",Oregon,Happy Valley,0,4,4
-"December 26, 2020",Illinois,Rockford,3,3,6
-"December 26, 2020",Florida,Tampa,2,2,4
-"December 26, 2020",Massachusetts,Lynn,1,5,6
-"December 26, 2020",Florida,Miami,1,3,4
-"December 25, 2020",Florida,Boynton Beach,1,4,5
-"December 25, 2020",Arkansas,Atkins,5,0,5
-"December 24, 2020",Florida,Lakeland,1,4,5
-"December 22, 2020",Mississippi,Meridian,5,0,5
-"December 20, 2020",Connecticut,Bridgeport,2,2,4
-"December 19, 2020",Illinois,Chicago,0,6,6
-"December 13, 2020",West Virginia,Elkview,4,0,4
-"December 12, 2020",California,San Bernardino,1,3,4
-"December 12, 2020",New York,Copiague,2,2,4
-"December 12, 2020",New York,Brooklyn,0,4,4
-"December 12, 2020",Maryland,Hyattsville (Landover),2,2,4
-"December 10, 2020",Georgia,Tifton,0,4,4
-"December 10, 2020",Mississippi,Jackson,0,5,5
-"December 8, 2020",West Virginia,Williamsburg,6,0,6
-"December 8, 2020",Louisiana,Lacombe,2,3,5
-"December 6, 2020",Texas,Venus,0,6,6
-"December 5, 2020",California,Hayward,1,3,4
-"December 5, 2020",North Carolina,Autryville,0,6,6
-"December 4, 2020",Illinois,Chicago,0,4,4
-"December 1, 2020",Pennsylvania,Morrisville,1,3,4
-"November 30, 2020",Alaska,Palmer,4,0,4
-"November 29, 2020",Mississippi,Grenada,0,11,11
-"November 29, 2020",Tennessee,Memphis,2,3,5
-"November 28, 2020",South Carolina,Aiken,1,10,11
-"November 28, 2020",South Carolina,Conway,0,5,5
-"November 28, 2020",Louisiana,New Orleans,0,4,4
-"November 27, 2020",Georgia,Macon,1,5,6
-"November 27, 2020",Ohio,Toledo,0,6,6
-"November 26, 2020",Nevada,Henderson,1,5,6
-"November 22, 2020",New Jersey,Trenton,0,4,4
-"November 22, 2020",Illinois,Chicago,1,3,4
-"November 22, 2020",New York,Brooklyn,1,6,7
-"November 22, 2020",Louisiana,New Orleans,1,3,4
-"November 21, 2020",Illinois,Chicago,0,6,6
-"November 21, 2020",Arizona,Phoenix,1,4,5
-"November 21, 2020",Nebraska,Bellevue,2,2,4
-"November 20, 2020",Wisconsin,Milwaukee (Wauwatosa),0,8,8
-"November 19, 2020",Florida,Haines City,1,3,4
-"November 18, 2020",Texas,Houston,3,2,5
-"November 18, 2020",South Carolina,Florence,0,4,4
-"November 17, 2020",Tennessee,Jackson,0,4,4
-"November 16, 2020",Florida,Miami,0,4,4
-"November 16, 2020",Illinois,Chicago,0,4,4
-"November 16, 2020",Illinois,Chicago,0,4,4
-"November 15, 2020",Louisiana,Shreveport,0,5,5
-"November 15, 2020",Georgia,Jonesboro,2,2,4
-"November 14, 2020",South Carolina,Sumter,3,1,4
-"November 14, 2020",Missouri,Fulton,0,4,4
-"November 14, 2020",Ohio,Cincinnati,0,4,4
-"November 14, 2020",California,Riverside,2,3,5
-"November 12, 2020",Florida,Tampa,2,4,6
-"November 12, 2020",North Carolina,Gastonia,0,6,6
-"November 10, 2020",Florida,Tampa,1,7,8
-"November 9, 2020",Texas,Fort Worth,0,4,4
-"November 8, 2020",Virginia,Virginia Beach,0,4,4
-"November 8, 2020",Tennessee,Nashville,0,8,8
-"November 7, 2020",Kansas,Ogden,0,4,4
-"November 7, 2020",South Carolina,Rock Hill,1,3,4
-"November 6, 2020",Louisiana,New Orleans,2,2,4
-"November 5, 2020",Ohio,Toledo,3,2,5
-"November 4, 2020",Missouri,Jefferson City,0,4,4
-"November 3, 2020",Nevada,Henderson,4,1,5
-"November 2, 2020",Ohio,Mansfield,0,5,5
-"November 1, 2020",South Carolina,Hollywood,0,6,6
-"November 1, 2020",Indiana,Evansville,0,4,4
-"November 1, 2020",Oklahoma,Oklahoma City,1,3,4
-"November 1, 2020",North Carolina,Winston Salem (Winston-salem),1,3,4
-"November 1, 2020",Arizona,Tucson,2,2,4
-"November 1, 2020",New Jersey,Atlantic City,1,4,5
-"October 31, 2020",California,Sacramento,0,4,4
-"October 31, 2020",Washington,Sumner,0,5,5
-"October 31, 2020",California,Anaheim,0,4,4
-"October 31, 2020",Nevada,North Las Vegas,0,4,4
-"October 31, 2020",Maryland,College Park,0,7,7
-"October 30, 2020",Maryland,Waldorf,1,3,4
-"October 30, 2020",Illinois,Chicago,1,3,4
-"October 29, 2020",Florida,Winter Garden,0,4,4
-"October 28, 2020",Virginia,Roanoke,0,4,4
-"October 28, 2020",New Jersey,Newark,1,3,4
-"October 25, 2020",Texas,Fort Worth,2,3,5
-"October 25, 2020",Texas,San Antonio,1,3,4
-"October 25, 2020",North Carolina,Raleigh,1,3,4
-"October 24, 2020",Mississippi,Greenwood,2,8,10
-"October 22, 2020",Florida,Miami,1,3,4
-"October 22, 2020",Louisiana,Rayne,0,5,5
-"October 22, 2020",Massachusetts,Boston,0,4,4
-"October 22, 2020",Maryland,Baltimore,0,4,4
-"October 21, 2020",New York,Brooklyn,1,5,6
-"October 21, 2020",Mississippi,Canton,2,2,4
-"October 20, 2020",Texas,Houston,3,1,4
-"October 19, 2020",Ohio,Mansfield,0,5,5
-"October 19, 2020",Louisiana,New Orleans,1,3,4
-"October 18, 2020",Maryland,Annapolis,1,3,4
-"October 18, 2020",Illinois,Chicago,1,4,5
-"October 18, 2020",Tennessee,Nashville,0,4,4
-"October 17, 2020",New York,Lockport,1,5,6
-"October 17, 2020",South Carolina,Rock Hill,0,5,5
-"October 16, 2020",California,San Jose,2,4,6
-"October 16, 2020",Florida,Orlando,3,1,4
-"October 16, 2020",Arizona,Mesa,1,6,7
-"October 16, 2020",California,San Francisco,1,3,4
-"October 15, 2020",Louisiana,Lafayette,2,2,4
-"October 15, 2020",Maryland,Baltimore,0,7,7
-"October 14, 2020",Pennsylvania,Philadelphia,0,4,4
-"October 12, 2020",South Carolina,Myrtle Beach,2,3,5
-"October 11, 2020",Georgia,Atlanta,0,4,4
-"October 10, 2020",Illinois,Chicago,1,3,4
-"October 10, 2020",South Carolina,Kingstree,0,8,8
-"October 10, 2020",Missouri,Saint Louis (Jennings),2,2,4
-"October 8, 2020",Pennsylvania,Philadelphia,1,6,7
-"October 7, 2020",Alaska,Anchorage,1,4,5
-"October 7, 2020",New York,Brooklyn,1,3,4
-"October 5, 2020",District of Columbia,Washington,1,3,4
-"October 4, 2020",Georgia,Atlanta,1,5,6
-"October 4, 2020",Indiana,Indianapolis,3,4,7
-"October 3, 2020",Tennessee,Clarksville,0,5,5
-"October 3, 2020",California,Sacramento,1,3,4
-"October 2, 2020",California,Los Angeles,0,4,4
-"October 2, 2020",Washington,Seattle,0,4,4
-"October 1, 2020",Michigan,Detroit,0,5,5
-"September 30, 2020",North Carolina,Greensboro,0,4,4
-"September 30, 2020",Florida,Jacksonville,0,4,4
-"September 30, 2020",Wisconsin,Milwaukee,0,7,7
-"September 29, 2020",Pennsylvania,Philadelphia,0,5,5
-"September 29, 2020",Ohio,Painesville,2,2,4
-"September 28, 2020",Michigan,Detroit,0,6,6
-"September 27, 2020",Ohio,Sandusky,1,3,4
-"September 27, 2020",California,San Bernardino,1,3,4
-"September 27, 2020",Tennessee,Nashville,0,4,4
-"September 26, 2020",Pennsylvania,Philadelphia,0,4,4
-"September 26, 2020",Alabama,Enterprise,1,3,4
-"September 26, 2020",Iowa,Waterloo,2,6,8
-"September 26, 2020",Illinois,Chicago,0,4,4
-"September 26, 2020",Missouri,Saint Louis,0,5,5
-"September 25, 2020",Pennsylvania,Philadelphia,0,4,4
-"September 23, 2020",Georgia,Hampton,1,3,4
-"September 23, 2020",Minnesota,Minneapolis,0,5,5
-"September 21, 2020",Ohio,Struthers,1,4,5
-"September 20, 2020",New York,Corona (Queens),0,4,4
-"September 20, 2020",Connecticut,Stamford,1,3,4
-"September 19, 2020",New York,Buffalo,1,4,5
-"September 19, 2020",Illinois,Chicago,0,4,4
-"September 19, 2020",Illinois,Chicago,0,4,4
-"September 19, 2020",New Jersey,Plainfield,0,4,4
-"September 19, 2020",New York,Rochester,2,14,16
-"September 19, 2020",New Jersey,Paterson,0,5,5
-"September 19, 2020",Arkansas,West Memphis,0,5,5
-"September 18, 2020",Arkansas,Little Rock,0,4,4
-"September 16, 2020",Pennsylvania,Philadelphia,2,3,5
-"September 15, 2020",California,San Jose,2,4,6
-"September 15, 2020",Illinois,Chicago,0,5,5
-"September 14, 2020",Louisiana,Baker,0,4,4
-"September 13, 2020",Tennessee,Manchester,3,3,6
-"September 13, 2020",Michigan,Grand Rapids,0,7,7
-"September 13, 2020",Florida,Tampa,0,4,4
-"September 13, 2020",Illinois,Chicago,1,3,4
-"September 13, 2020",New Jersey,New Brunswick,2,7,9
-"September 12, 2020",Illinois,Chicago,2,4,6
-"September 12, 2020",North Carolina,Wilson,0,5,5
-"September 12, 2020",Pennsylvania,Philadelphia,0,4,4
-"September 11, 2020",Louisiana,Donaldsonville,0,5,5
-"September 10, 2020",Louisiana,New Orleans,3,2,5
-"September 8, 2020",Maryland,Baltimore,0,5,5
-"September 7, 2020",Louisiana,New Orleans,0,4,4
-"September 7, 2020",New York,Brooklyn,0,5,5
-"September 7, 2020",California,Aguanga,7,0,7
-"September 7, 2020",Indiana,Indianapolis,1,4,5
-"September 6, 2020",Georgia,Sparta,1,6,7
-"September 6, 2020",Illinois,Chicago,0,4,4
-"September 6, 2020",Tennessee,Memphis,0,4,4
-"September 6, 2020",Colorado,Commerce City,0,4,4
-"September 6, 2020",Missouri,Kansas City,0,6,6
-"September 6, 2020",Missouri,Saint Louis,1,3,4
-"September 6, 2020",Louisiana,New Iberia,0,5,5
-"September 6, 2020",Maryland,Baltimore,0,4,4
-"September 5, 2020",Texas,Houston,0,4,4
-"September 5, 2020",Maryland,Baltimore,1,3,4
-"September 5, 2020",Florida,Williston,0,6,6
-"September 5, 2020",Arkansas,Little Rock,0,4,4
-"September 3, 2020",South Carolina,Anderson,1,3,4
-"September 3, 2020",Florida,Miami,1,3,4
-"September 3, 2020",Arkansas,Hensley,1,3,4
-"September 3, 2020",Pennsylvania,Philadelphia,0,6,6
-"September 3, 2020",Arkansas,Little Rock,0,4,4
-"September 2, 2020",Pennsylvania,Philadelphia,2,2,4
-"September 2, 2020",Georgia,Albany,1,3,4
-"September 2, 2020",California,Oakland,0,4,4
-"August 31, 2020",Pennsylvania,Philadelphia,0,5,5
-"August 31, 2020",Florida,Tallahassee,0,4,4
-"August 30, 2020",Kentucky,Lexington,0,7,7
-"August 30, 2020",Illinois,Zion,1,3,4
-"August 30, 2020",Texas,San Antonio,2,2,4
-"August 30, 2020",New York,Buffalo,1,4,5
-"August 30, 2020",Pennsylvania,Philadelphia,0,4,4
-"August 30, 2020",Illinois,Chicago,1,4,5
-"August 30, 2020",Kentucky,Madisonville,0,5,5
-"August 29, 2020",Nevada,Las Vegas,2,2,4
-"August 29, 2020",Illinois,Rock Island,1,5,6
-"August 28, 2020",Minnesota,Minneapolis,0,4,4
-"August 28, 2020",Pennsylvania,Chester,1,3,4
-"August 28, 2020",Texas,Dallas,1,4,5
-"August 27, 2020",Oregon,Portland,1,3,4
-"August 26, 2020",Michigan,Pontiac,3,1,4
-"August 26, 2020",South Carolina,Hilton Head Island,0,4,4
-"August 26, 2020",Pennsylvania,Philadelphia,0,4,4
-"August 25, 2020",Virginia,Norfolk,0,5,5
-"August 25, 2020",New York,Rochester,0,4,4
-"August 24, 2020",Michigan,Detroit,0,4,4
-"August 24, 2020",California,Sacramento,1,3,4
-"August 24, 2020",Florida,West Palm Beach,0,4,4
-"August 24, 2020",Virginia,Richmond,1,4,5
-"August 23, 2020",Tennessee,Somerville,1,4,5
-"August 23, 2020",Arkansas,Pine Bluff,0,7,7
-"August 23, 2020",New York,Brooklyn,1,3,4
-"August 23, 2020",Colorado,Pueblo,0,6,6
-"August 23, 2020",Illinois,Champaign,0,4,4
-"August 23, 2020",Illinois,Chicago,0,4,4
-"August 22, 2020",Illinois,Rockford,1,3,4
-"August 22, 2020",Alabama,Bessemer (Hueytown),1,3,4
-"August 19, 2020",Pennsylvania,Philadelphia,0,4,4
-"August 19, 2020",Illinois,Chicago,0,6,6
-"August 18, 2020",Pennsylvania,Philadelphia,1,4,5
-"August 18, 2020",New York,Corona (Queens),0,4,4
-"August 18, 2020",Illinois,Rockford,0,4,4
-"August 17, 2020",Ohio,Cleveland,0,5,5
-"August 17, 2020",New York,Brooklyn,0,4,4
-"August 17, 2020",Texas,Dayton,3,2,5
-"August 16, 2020",Kentucky,Lexington,1,3,4
-"August 16, 2020",Ohio,Cincinnati,1,3,4
-"August 16, 2020",Ohio,Cincinnati,2,9,11
-"August 16, 2020",Ohio,Cincinnati,1,3,4
-"August 16, 2020",Colorado,Denver,2,4,6
-"August 16, 2020",Oklahoma,Oklahoma City,0,4,4
-"August 15, 2020",Michigan,Belleville,4,0,4
-"August 15, 2020",Pennsylvania,Philadelphia,0,5,5
-"August 15, 2020",New York,Rochester,0,5,5
-"August 15, 2020",Connecticut,New Haven,1,5,6
-"August 15, 2020",Alabama,Troy,2,3,5
-"August 14, 2020",New York,New York (Manhattan),0,4,4
-"August 12, 2020",New Jersey,Newark,1,4,5
-"August 12, 2020",Ohio,Dayton,1,3,4
-"August 11, 2020",California,Torrance,0,5,5
-"August 9, 2020",Colorado,Denver,0,9,9
-"August 9, 2020",Ohio,Toledo,0,6,6
-"August 9, 2020",District of Columbia,Washington,1,21,22
-"August 9, 2020",Mississippi,Jackson,0,4,4
-"August 9, 2020",Texas,Houston,0,4,4
-"August 8, 2020",Kentucky,Paducah,1,4,5
-"August 8, 2020",Pennsylvania,Philadelphia,0,6,6
-"August 8, 2020",Massachusetts,Brockton,0,5,5
-"August 8, 2020",Alabama,Birmingham (Ensley),1,5,6
-"August 8, 2020",New York,Albany,1,3,4
-"August 6, 2020",California,Oakland,1,3,4
-"August 5, 2020",Illinois,Chicago,0,4,4
-"August 4, 2020",Wisconsin,Madison,0,4,4
-"August 4, 2020",District of Columbia,Washington,0,4,4
-"August 4, 2020",California,Beverly Hills,1,4,5
-"August 4, 2020",Missouri,Saint Louis,1,3,4
-"August 4, 2020",Connecticut,Hartford,1,5,6
-"August 3, 2020",New York,Bronx,0,4,4
-"August 2, 2020",Pennsylvania,Philadelphia,0,4,4
-"August 2, 2020",New Jersey,Newark,0,5,5
-"August 1, 2020",Illinois,Chicago,1,4,5
-"August 1, 2020",Texas,Pointblank,2,3,5
-"August 1, 2020",Colorado,Denver,1,4,5
-"August 1, 2020",Alabama,Montgomery,0,4,4
-"July 31, 2020",Pennsylvania,Philadelphia,1,3,4
-"July 30, 2020",Florida,Tampa,0,5,5
-"July 30, 2020",Florida,Miami Gardens,0,5,5
-"July 29, 2020",Michigan,Detroit,0,4,4
-"July 29, 2020",Ohio,Elyria,5,0,5
-"July 29, 2020",Missouri,Saint Louis,3,2,5
-"July 28, 2020",Delaware,Wilmington,2,2,4
-"July 28, 2020",Wisconsin,Milwaukee,0,4,4
-"July 27, 2020",Washington,Federal Way,1,3,4
-"July 27, 2020",Illinois,Chicago,1,4,5
-"July 26, 2020",Michigan,Flint,1,3,4
-"July 26, 2020",Texas,Mount Enterprise,0,4,4
-"July 26, 2020",Kentucky,Louisville,1,3,4
-"July 26, 2020",Colorado,Commerce City,1,3,4
-"July 26, 2020",Arkansas,Magnolia,0,4,4
-"July 25, 2020",Michigan,Flint,0,6,6
-"July 25, 2020",North Carolina,Raleigh,0,4,4
-"July 25, 2020",Florida,Miami,1,3,4
-"July 25, 2020",Colorado,Denver,2,3,5
-"July 25, 2020",Texas,Dallas,0,4,4
-"July 25, 2020",California,Manteca,0,7,7
-"July 24, 2020",Georgia,Atlanta,2,2,4
-"July 23, 2020",Virginia,Fairfield,1,3,4
-"July 23, 2020",Virginia,Petersburg,0,4,4
-"July 23, 2020",Illinois,Chicago,2,4,6
-"July 22, 2020",Michigan,Warren,0,4,4
-"July 21, 2020",Illinois,Chicago,0,15,15
-"July 20, 2020",Virginia,Richmond,1,4,5
-"July 20, 2020",Illinois,Chicago,0,5,5
-"July 19, 2020",Michigan,Detroit,1,3,4
-"July 19, 2020",Nebraska,Omaha,0,8,8
-"July 19, 2020",Illinois,Chicago,2,3,5
-"July 19, 2020",Illinois,Peoria,0,13,13
-"July 19, 2020",District of Columbia,Washington,1,8,9
-"July 19, 2020",Michigan,Detroit,4,0,4
-"July 18, 2020",Illinois,Chicago,1,4,5
-"July 17, 2020",Ohio,Columbus,0,4,4
-"July 17, 2020",Florida,Madison,0,4,4
-"July 16, 2020",Tennessee,Nashville,0,5,5
-"July 15, 2020",Louisiana,Shreveport,1,3,4
-"July 15, 2020",New York,Brooklyn,1,5,6
-"July 14, 2020",Missouri,Saint Joseph,0,5,5
-"July 14, 2020",North Carolina,Durham,0,8,8
-"July 13, 2020",New York,Brooklyn,0,6,6
-"July 13, 2020",Kentucky,Louisville,1,3,4
-"July 13, 2020",Washington,Kent,0,6,6
-"July 12, 2020",New York,Brooklyn,1,3,4
-"July 12, 2020",Louisiana,Baton Rouge,1,7,8
-"July 12, 2020",Michigan,Lansing,0,5,5
-"July 12, 2020",Florida,Fort Lauderdale,2,2,4
-"July 12, 2020",Illinois,Chicago,1,3,4
-"July 12, 2020",Illinois,Chicago,1,4,5
-"July 12, 2020",Mississippi,Como,2,4,6
-"July 11, 2020",New York,Rochester,0,6,6
-"July 11, 2020",Delaware,Wilmington,0,5,5
-"July 7, 2020",Virginia,Alexandria,0,5,5
-"July 7, 2020",New Jersey,Paterson,4,3,7
-"July 6, 2020",Illinois,Chicago,0,6,6
-"July 5, 2020",Illinois,Chicago,0,4,4
-"July 5, 2020",Iowa,Davenport,1,3,4
-"July 5, 2020",New York,New York (Manhattan),0,5,5
-"July 5, 2020",South Carolina,Greenville,2,8,10
-"July 5, 2020",Arkansas,Helena,1,3,4
-"July 5, 2020",Georgia,Atlanta,2,13,15
-"July 5, 2020",Missouri,Columbia,2,3,5
-"July 5, 2020",Wisconsin,Milwaukee,0,4,4
-"July 5, 2020",Texas,Houston,0,4,4
-"July 5, 2020",Maryland,Cambridge,0,4,4
-"July 5, 2020",Illinois,Chicago,1,5,6
-"July 5, 2020",Pennsylvania,Ephrata,0,4,4
-"July 5, 2020",Illinois,Freeport,1,5,6
-"July 5, 2020",Mississippi,Greenville,0,4,4
-"July 5, 2020",Michigan,Detroit,2,4,6
-"July 4, 2020",Maryland,Temple Hills (Marlow Heights),1,3,4
-"July 4, 2020",Georgia,Atlanta,0,5,5
-"July 4, 2020",Massachusetts,Lynn,1,4,5
-"July 4, 2020",Michigan,Detroit,2,3,5
-"July 4, 2020",South Carolina,Barnwell,0,5,5
-"July 4, 2020",Illinois,Chicago,1,3,4
-"July 4, 2020",Illinois,Chicago,4,4,8
-"July 4, 2020",Louisiana,Baton Rouge,0,4,4
-"July 4, 2020",Mississippi,Jackson,1,3,4
-"July 3, 2020",Alabama,Birmingham (Hoover),1,3,4
-"July 3, 2020",Maryland,Baltimore,0,4,4
-"July 2, 2020",California,Delano,2,3,5
-"July 2, 2020",Massachusetts,Somerville,0,4,4
-"July 2, 2020",New Jersey,Paterson,1,4,5
-"July 1, 2020",California,Oakland,0,4,4
-"July 1, 2020",Louisiana,Lake Charles,0,4,4
-"June 30, 2020",Iowa,Davenport,0,5,5
-"June 30, 2020",Georgia,Atlanta,1,4,5
-"June 30, 2020",Massachusetts,Boston,1,3,4
-"June 30, 2020",Illinois,Chicago,0,4,4
-"June 30, 2020",Ohio,Dayton,0,4,4
-"June 30, 2020",Arkansas,Greenbrier,0,4,4
-"June 29, 2020",California,Sylmar,0,4,4
-"June 29, 2020",South Dakota,Sioux Falls,1,3,4
-"June 28, 2020",Pennsylvania,Philadelphia,2,2,4
-"June 28, 2020",Alabama,Akron,0,7,7
-"June 27, 2020",Illinois,Chicago,2,2,4
-"June 27, 2020",California,Red Bluff,3,4,7
-"June 27, 2020",Illinois,Peoria,0,4,4
-"June 27, 2020",New York,Brooklyn,0,4,4
-"June 27, 2020",Arkansas,Blytheville,3,1,4
-"June 26, 2020",Colorado,Aurora,0,5,5
-"June 26, 2020",California,Fresno,0,4,4
-"June 26, 2020",Arizona,Phoenix,0,4,4
-"June 25, 2020",Pennsylvania,Philadelphia,0,4,4
-"June 25, 2020",Connecticut,Bridgeport,1,3,4
-"June 24, 2020",Tennessee,Jackson,0,4,4
-"June 23, 2020",Illinois,Chicago,0,4,4
-"June 23, 2020",Florida,Lake Worth,0,5,5
-"June 22, 2020",North Carolina,Charlotte,4,5,9
-"June 22, 2020",California,San Francisco,0,5,5
-"June 22, 2020",New York,Brooklyn,0,5,5
-"June 22, 2020",Minnesota,Minneapolis,0,4,4
-"June 22, 2020",Minnesota,Minneapolis,0,4,4
-"June 22, 2020",Illinois,Chicago,0,5,5
-"June 22, 2020",Illinois,Chicago,0,4,4
-"June 22, 2020",Ohio,Columbus,1,4,5
-"June 21, 2020",New York,Buffalo,0,4,4
-"June 21, 2020",Texas,Austin,0,5,5
-"June 21, 2020",Minnesota,Minneapolis,0,11,11
-"June 21, 2020",Alabama,Auburn,0,4,4
-"June 21, 2020",Texas,Corpus Christi,1,3,4
-"June 21, 2020",Wisconsin,Milwaukee,0,5,5
-"June 21, 2020",Illinois,Chicago,1,3,4
-"June 20, 2020",New York,Bronx,0,4,4
-"June 20, 2020",New York,Syracuse,1,8,9
-"June 20, 2020",Michigan,Detroit,0,4,4
-"June 20, 2020",New Jersey,Jersey City,1,4,5
-"June 20, 2020",Michigan,Saginaw,1,3,4
-"June 20, 2020",Wisconsin,Janesville,0,5,5
-"June 20, 2020",North Carolina,Pinetops,2,2,4
-"June 20, 2020",Kansas,Wichita,0,5,5
-"June 20, 2020",New York,Bronx,0,4,4
-"June 18, 2020",New York,Albany,0,7,7
-"June 17, 2020",Illinois,Chicago,0,4,4
-"June 16, 2020",Iowa,Fort Dodge,2,2,4
-"June 15, 2020",Illinois,Chicago,0,4,4
-"June 14, 2020",Minnesota,Minneapolis,1,6,7
-"June 14, 2020",Kentucky,Louisville,1,4,5
-"June 14, 2020",Louisiana,Lafayette,0,5,5
-"June 14, 2020",Louisiana,Lake Charles,0,4,4
-"June 14, 2020",Louisiana,New Orleans,2,2,4
-"June 13, 2020",Arkansas,Rison,0,4,4
-"June 13, 2020",California,Hesperia,0,5,5
-"June 13, 2020",Missouri,Saint Louis,2,4,6
-"June 13, 2020",Maryland,Baltimore,0,5,5
-"June 13, 2020",Georgia,Atlanta,2,5,7
-"June 13, 2020",District of Columbia,Washington,2,5,7
-"June 13, 2020",New York,Wyandanch,1,7,8
-"June 12, 2020",Pennsylvania,Philadelphia,0,6,6
-"June 12, 2020",New York,Bronx,1,3,4
-"June 12, 2020",Texas,San Antonio,0,8,8
-"June 11, 2020",Virginia,Richmond,0,4,4
-"June 11, 2020",District of Columbia,Washington,0,7,7
-"June 11, 2020",Louisiana,Monroe,6,0,6
-"June 11, 2020",Texas,Houston,2,4,6
-"June 10, 2020",California,Sacramento,1,4,5
-"June 10, 2020",Ohio,Toledo,1,3,4
-"June 10, 2020",California,Paso Robles,2,4,6
-"June 9, 2020",North Carolina,Scotland Neck,0,5,5
-"June 9, 2020",Pennsylvania,Philadelphia,1,6,7
-"June 9, 2020",California,Vallejo,2,3,5
-"June 8, 2020",New York,Brooklyn,0,4,4
-"June 8, 2020",Tennessee,Memphis,0,4,4
-"June 7, 2020",Tennessee,Dyersburg,0,5,5
-"June 7, 2020",Arkansas,Hope,0,5,5
-"June 7, 2020",Illinois,Robbins,1,3,4
-"June 7, 2020",Missouri,Sikeston,2,7,9
-"June 7, 2020",Illinois,Chicago,1,3,4
-"June 7, 2020",Illinois,Chicago,0,6,6
-"June 6, 2020",Missouri,Kansas City,1,4,5
-"June 6, 2020",Mississippi,Drew,0,5,5
-"June 6, 2020",California,Sacramento,1,4,5
-"June 6, 2020",Ohio,Ironton,0,4,4
-"June 5, 2020",Colorado,Denver,0,4,4
-"June 4, 2020",Alabama,Valhermoso Springs,7,0,7
-"June 2, 2020",Texas,Dallas,1,3,4
-"June 2, 2020",Wisconsin,Racine,0,5,5
-"June 2, 2020",Illinois,Chicago,0,4,4
-"June 1, 2020",Missouri,Saint Louis,0,4,4
-"May 31, 2020",Mississippi,Gulfport,1,5,6
-"May 31, 2020",Pennsylvania,Philadelphia,0,4,4
-"May 30, 2020",New Jersey,Paterson,0,4,4
-"May 30, 2020",District of Columbia,Washington,0,4,4
-"May 30, 2020",Texas,Houston,1,4,5
-"May 30, 2020",Florida,Altha,2,4,6
-"May 30, 2020",North Carolina,Gastonia,1,5,6
-"May 29, 2020",Virginia,Portsmouth,0,5,5
-"May 28, 2020",Kentucky,Louisville,0,7,7
-"May 28, 2020",Tennessee,Memphis,0,4,4
-"May 28, 2020",Pennsylvania,Philadelphia,1,3,4
-"May 27, 2020",Massachusetts,Boston,1,4,5
-"May 27, 2020",Ohio,Cleveland,1,3,4
-"May 27, 2020",California,San Jose,0,5,5
-"May 27, 2020",Pennsylvania,Philadelphia,0,4,4
-"May 26, 2020",Mississippi,Vicksburg,0,4,4
-"May 26, 2020",Pennsylvania,Philadelphia,0,4,4
-"May 26, 2020",Illinois,Chicago,2,2,4
-"May 26, 2020",California,Los Angeles,0,5,5
-"May 26, 2020",South Carolina,Bowman,3,5,8
-"May 25, 2020",Louisiana,Lake Charles,0,6,6
-"May 24, 2020",Missouri,Saint Louis,0,4,4
-"May 24, 2020",South Carolina,Myrtle Beach,0,4,4
-"May 24, 2020",Alabama,Danville,3,1,4
-"May 23, 2020",Texas,Houston,0,4,4
-"May 23, 2020",Illinois,Rock Island,1,4,5
-"May 23, 2020",South Carolina,Jonesville,2,5,7
-"May 23, 2020",North Carolina,Charlotte,0,6,6
-"May 23, 2020",Michigan,Flint,1,3,4
-"May 23, 2020",Florida,Fort Lauderdale (Lauderhill),0,5,5
-"May 23, 2020",Florida,Daytona Beach,0,6,6
-"May 23, 2020",Illinois,Chicago,1,3,4
-"May 23, 2020",Mississippi,Jackson,1,4,5
-"May 22, 2020",Ohio,Cleveland,1,3,4
-"May 20, 2020",Texas,Houston,2,3,5
-"May 19, 2020",Illinois,Decatur,0,5,5
-"May 18, 2020",California,Bakersfield,0,5,5
-"May 17, 2020",Maryland,District Heights,0,3,3
-"May 17, 2020",South Carolina,Charleston,0,4,4
-"May 17, 2020",South Carolina,Saint Matthews,4,1,5
-"May 16, 2020",Louisiana,Bogalusa,0,13,13
-"May 15, 2020",Florida,Gainesville,0,5,5
-"May 15, 2020",Pennsylvania,Philadelphia,0,4,4
-"May 14, 2020",New Mexico,Albuquerque,0,5,5
-"May 13, 2020",Illinois,Rockford,1,4,5
-"May 13, 2020",Kentucky,Garrison,1,4,5
-"May 13, 2020",Tennessee,Memphis,0,4,4
-"May 11, 2020",Alabama,Montgomery,0,4,4
-"May 10, 2020",Louisiana,Baton Rouge,0,5,5
-"May 10, 2020",Texas,Fort Worth,0,5,5
-"May 10, 2020",Texas,Katy,0,6,6
-"May 9, 2020",Missouri,Saint Louis,0,4,4
-"May 7, 2020",Maryland,Baltimore,0,4,4
-"May 6, 2020",Texas,Houston,3,1,4
-"May 6, 2020",Georgia,Albany,1,3,4
-"May 6, 2020",Tennessee,Memphis,2,2,4
-"May 3, 2020",Ohio,Columbus,0,4,4
-"May 3, 2020",Florida,Jacksonville,1,3,4
-"May 3, 2020",Illinois,Chicago,0,5,5
-"May 2, 2020",Pennsylvania,Philadelphia,0,4,4
-"April 29, 2020",Indiana,Indianapolis,0,4,4
-"April 27, 2020",Wisconsin,Milwaukee,5,0,5
-"April 26, 2020",New York,Troy,0,4,4
-"April 26, 2020",North Carolina,Salisbury,1,4,5
-"April 25, 2020",Florida,Orlando,1,4,5
-"April 25, 2020",Tennessee,Memphis,0,7,7
-"April 24, 2020",Texas,Houston,3,1,4
-"April 24, 2020",Indiana,Fort Wayne,0,4,4
-"April 18, 2020",Maryland,Hyattsville,2,2,4
-"April 17, 2020",North Carolina,Greensboro,1,3,4
-"April 17, 2020",Massachusetts,Springfield,1,4,5
-"April 16, 2020",Pennsylvania,Philadelphia,0,4,4
-"April 15, 2020",Mississippi,Jackson,1,3,4
-"April 11, 2020",California,Bakersfield,0,6,6
-"April 10, 2020",Michigan,Muskegon,0,4,4
-"April 8, 2020",Michigan,Detroit,0,4,4
-"April 8, 2020",South Carolina,Greenwood,1,3,4
-"April 8, 2020",Alaska,Anchorage,0,4,4
-"April 7, 2020",Illinois,Chicago,1,3,4
-"April 5, 2020",New York,Brooklyn,0,4,4
-"April 5, 2020",California,Los Angeles,1,3,4
-"April 5, 2020",South Carolina,Lancaster,1,4,5
-"April 4, 2020",Texas,Vidor,0,4,4
-"April 4, 2020",Texas,Lubbock,2,2,4
-"April 4, 2020",Florida,Hialeah,1,4,5
-"April 3, 2020",Kentucky,Louisville,0,4,4
-"March 31, 2020",Georgia,Macon,3,1,4
-"March 30, 2020",Pennsylvania,Philadelphia,0,5,5
-"March 29, 2020",Georgia,Atlanta,0,4,4
-"March 28, 2020",Maryland,Baltimore,1,3,4
-"March 23, 2020",Texas,San Antonio,0,4,4
-"March 22, 2020",South Carolina,Hanahan,0,4,4
-"March 20, 2020",Virginia,Norfolk,0,4,4
-"March 20, 2020",Missouri,Saint Louis,0,4,4
-"March 18, 2020",Florida,Jacksonville,1,4,5
-"March 17, 2020",Maryland,Baltimore,0,7,7
-"March 15, 2020",North Carolina,Moncure,7,0,7
-"March 15, 2020",Missouri,Springfield,5,2,7
-"March 14, 2020",Michigan,Saginaw,2,2,4
-"March 14, 2020",New Mexico,Albuquerque,1,3,4
-"March 13, 2020",Illinois,Rockford,0,4,4
-"March 13, 2020",Louisiana,New Orleans (Algiers),0,5,5
-"March 10, 2020",Pennsylvania,Chester,2,2,4
-"March 8, 2020",Illinois,South Holland,0,4,4
-"March 8, 2020",Maryland,Rosedale,1,5,6
-"March 8, 2020",California,Ceres,1,3,4
-"March 7, 2020",Ohio,Cleveland,1,18,19
-"March 7, 2020",New Mexico,Albuquerque,0,4,4
-"March 7, 2020",Illinois,Chicago,0,7,7
-"March 6, 2020",District of Columbia,Washington,0,6,6
-"March 4, 2020",California,Tulare,1,5,6
-"February 29, 2020",Missouri,Kansas City,1,4,5
-"February 29, 2020",Colorado,Brighton,0,5,5
-"February 26, 2020",Wisconsin,Milwaukee,6,0,6
-"February 25, 2020",Illinois,Chicago,1,4,5
-"February 23, 2020",North Carolina,Clarkton,3,1,4
-"February 23, 2020",Texas,Houston,0,7,7
-"February 20, 2020",Idaho,Caldwell,2,3,5
-"February 20, 2020",North Carolina,Greensboro,0,4,4
-"February 17, 2020",Mississippi,Port Gibson,2,2,4
-"February 16, 2020",Connecticut,Hartford,1,5,6
-"February 16, 2020",Florida,Pensacola,1,4,5
-"February 15, 2020",Louisiana,New Orleans,0,4,4
-"February 15, 2020",Tennessee,Memphis,0,7,7
-"February 14, 2020",Illinois,Chicago,0,6,6
-"February 10, 2020",Delaware,Dover,1,4,5
-"February 8, 2020",Texas,Houston,1,3,4
-"February 5, 2020",Indiana,Indianapolis,4,0,4
-"February 3, 2020",Maine,Machias,3,1,4
-"February 3, 2020",California,Lebec,1,5,6
-"February 1, 2020",Mississippi,Philadelphia,0,4,4
-"January 31, 2020",California,Delano,1,4,5
-"January 31, 2020",Louisiana,Shreveport,0,4,4
-"January 31, 2020",Florida,Boynton Beach,1,3,4
-"January 30, 2020",California,Merced,0,4,4
-"January 27, 2020",Connecticut,Bridgeport,0,4,4
-"January 26, 2020",Missouri,Cape Girardeau,0,5,5
-"January 26, 2020",New York,Newburgh,3,1,4
-"January 26, 2020",North Carolina,Salisbury,0,6,6
-"January 26, 2020",South Carolina,Hartsville,3,3,6
-"January 24, 2020",North Carolina,Vanceboro,5,0,5
-"January 22, 2020",Washington,Seattle,1,7,8
-"January 19, 2020",Missouri,Kansas City,2,15,17
-"January 19, 2020",Tennessee,Memphis,1,4,5
-"January 19, 2020",Texas,San Antonio,2,5,7
-"January 18, 2020",Texas,South Houston,2,2,4
-"January 17, 2020",Utah,Grantsville,4,1,5
-"January 16, 2020",Illinois,Chicago,0,5,5
-"January 11, 2020",Colorado,Aurora,0,5,5
-"January 8, 2020",Mississippi,Bay Saint Louis,2,2,4
-"January 5, 2020",Georgia,Atlanta,0,4,4
-"January 4, 2020",Florida,Ocala,1,3,4
-"January 2, 2020",New York,Brooklyn,0,4,4
-"January 1, 2020",Ohio,Cleveland,0,4,4
-"January 1, 2020",West Virginia,Huntington,0,7,7
-"January 1, 2020",Missouri,Saint Louis,3,2,5
+state,killed,id,injured,KilledOrInjured,date
+Alabama,1,1,3,4,26/09/2020
+Michigan,0,26,4,4,10/04/2020
+California,0,6,6,6,11/04/2020
+Mississippi,1,27,3,4,15/04/2020
+Pennsylvania,0,42,4,4,16/04/2020
+Massachusetts,1,25,4,5,17/04/2020
+North Carolina,1,37,3,4,17/04/2020
+Maryland,2,24,2,4,18/04/2020
+Indiana,0,18,4,4,24/04/2020
+Texas,3,48,1,4,24/04/2020
+Florida,1,12,4,5,25/04/2020
+Tennessee,0,47,7,7,25/04/2020
+New York,0,36,4,4,26/04/2020
+North Carolina,1,37,4,5,26/04/2020
+Wisconsin,5,55,0,5,27/04/2020
+Indiana,0,18,4,4,29/04/2020
+Kentucky,0,21,4,4,03/04/2020
+Florida,1,12,4,5,04/04/2020
+Texas,0,48,4,4,04/04/2020
+Texas,2,48,2,4,04/04/2020
+California,1,6,3,4,05/04/2020
+New York,0,36,4,4,05/04/2020
+South Carolina,1,45,4,5,05/04/2020
+Illinois,1,17,3,4,07/04/2020
+Alaska,0,2,4,4,08/04/2020
+Michigan,0,26,4,4,08/04/2020
+South Carolina,1,45,3,4,08/04/2020
+Alabama,0,1,4,4,01/08/2020
+Colorado,1,8,4,5,01/08/2020
+Illinois,1,17,4,5,01/08/2020
+Texas,2,48,3,5,01/08/2020
+California,0,6,5,5,11/08/2020
+New Jersey,1,34,4,5,12/08/2020
+Ohio,1,39,3,4,12/08/2020
+New York,0,36,4,4,14/08/2020
+Alabama,2,1,3,5,15/08/2020
+Connecticut,1,9,5,6,15/08/2020
+Michigan,4,26,0,4,15/08/2020
+New York,0,36,5,5,15/08/2020
+Pennsylvania,0,42,5,5,15/08/2020
+Colorado,2,8,4,6,16/08/2020
+Kentucky,1,21,3,4,16/08/2020
+Ohio,1,39,3,4,16/08/2020
+Ohio,2,39,9,11,16/08/2020
+Ohio,1,39,3,4,16/08/2020
+Oklahoma,0,40,4,4,16/08/2020
+New York,0,36,4,4,17/08/2020
+Ohio,0,39,5,5,17/08/2020
+Texas,3,48,2,5,17/08/2020
+Illinois,0,17,4,4,18/08/2020
+New York,0,36,4,4,18/08/2020
+Pennsylvania,1,42,4,5,18/08/2020
+Illinois,0,17,6,6,19/08/2020
+Pennsylvania,0,42,4,4,19/08/2020
+New Jersey,0,34,5,5,02/08/2020
+Pennsylvania,0,42,4,4,02/08/2020
+Alabama,1,1,3,4,22/08/2020
+Illinois,1,17,3,4,22/08/2020
+Arkansas,0,5,7,7,23/08/2020
+Colorado,0,8,6,6,23/08/2020
+Illinois,0,17,4,4,23/08/2020
+Illinois,0,17,4,4,23/08/2020
+New York,1,36,3,4,23/08/2020
+Tennessee,1,47,4,5,23/08/2020
+California,1,6,3,4,24/08/2020
+Florida,0,12,4,4,24/08/2020
+Michigan,0,26,4,4,24/08/2020
+Virginia,1,51,4,5,24/08/2020
+New York,0,36,4,4,25/08/2020
+Virginia,0,51,5,5,25/08/2020
+Michigan,3,26,1,4,26/08/2020
+Pennsylvania,0,42,4,4,26/08/2020
+South Carolina,0,45,4,4,26/08/2020
+Oregon,1,41,3,4,27/08/2020
+Minnesota,0,27,4,4,28/08/2020
+Pennsylvania,1,42,3,4,28/08/2020
+Texas,1,48,4,5,28/08/2020
+Illinois,1,17,5,6,29/08/2020
+Nevada,2,32,2,4,29/08/2020
+New York,0,36,4,4,03/08/2020
+Illinois,1,17,3,4,30/08/2020
+Illinois,1,17,4,5,30/08/2020
+Kentucky,0,21,7,7,30/08/2020
+Kentucky,0,21,5,5,30/08/2020
+New York,1,36,4,5,30/08/2020
+Pennsylvania,0,42,4,4,30/08/2020
+Texas,2,48,2,4,30/08/2020
+Florida,0,12,4,4,31/08/2020
+Pennsylvania,0,42,5,5,31/08/2020
+California,1,6,4,5,04/08/2020
+Connecticut,1,9,5,6,04/08/2020
+District of Columbia,0,11,4,4,04/08/2020
+Missouri,1,29,3,4,04/08/2020
+Wisconsin,0,55,4,4,04/08/2020
+Illinois,0,17,4,4,05/08/2020
+California,1,6,3,4,06/08/2020
+Alabama,1,1,5,6,08/08/2020
+Kentucky,1,21,4,5,08/08/2020
+Massachusetts,0,25,5,5,08/08/2020
+New York,1,36,3,4,08/08/2020
+Pennsylvania,0,42,6,6,08/08/2020
+Colorado,0,8,9,9,09/08/2020
+District of Columbia,1,11,21,22,09/08/2020
+Mississippi,0,27,4,4,09/08/2020
+Ohio,0,39,6,6,09/08/2020
+Texas,0,48,4,4,09/08/2020
+Pennsylvania,1,42,3,4,01/12/2020
+Georgia,0,13,4,4,10/12/2020
+Mississippi,0,27,5,5,10/12/2020
+California,1,6,3,4,12/12/2020
+Maryland,2,24,2,4,12/12/2020
+New York,2,36,2,4,12/12/2020
+New York,0,36,4,4,12/12/2020
+West Virginia,4,54,0,4,13/12/2020
+Illinois,0,17,6,6,19/12/2020
+Connecticut,2,9,2,4,20/12/2020
+Mississippi,5,27,0,5,22/12/2020
+Florida,1,12,4,5,24/12/2020
+Arkansas,5,5,0,5,25/12/2020
+Florida,1,12,4,5,25/12/2020
+Florida,2,12,2,4,26/12/2020
+Florida,1,12,3,4,26/12/2020
+Illinois,3,17,3,6,26/12/2020
+Massachusetts,1,25,5,6,26/12/2020
+Indiana,1,18,3,4,31/12/2020
+Oregon,0,41,4,4,31/12/2020
+Illinois,0,17,4,4,04/12/2020
+California,1,6,3,4,05/12/2020
+North Carolina,0,37,6,6,05/12/2020
+Texas,0,48,6,6,06/12/2020
+Louisiana,2,22,3,5,08/12/2020
+West Virginia,6,54,0,6,08/12/2020
+Mississippi,0,27,4,4,01/02/2020
+Delaware,1,10,4,5,10/02/2020
+Illinois,0,17,6,6,14/02/2020
+Louisiana,0,22,4,4,15/02/2020
+Tennessee,0,47,7,7,15/02/2020
+Connecticut,1,9,5,6,16/02/2020
+Florida,1,12,4,5,16/02/2020
+Mississippi,2,27,2,4,17/02/2020
+Idaho,2,16,3,5,20/02/2020
+North Carolina,0,37,4,4,20/02/2020
+North Carolina,3,37,1,4,23/02/2020
+Texas,0,48,7,7,23/02/2020
+Illinois,1,17,4,5,25/02/2020
+Wisconsin,6,55,0,6,26/02/2020
+Colorado,0,8,5,5,29/02/2020
+Missouri,1,29,4,5,29/02/2020
+California,1,6,5,6,03/02/2020
+Maine,3,23,1,4,03/02/2020
+Indiana,4,18,0,4,05/02/2020
+Texas,1,48,3,4,08/02/2020
+Hawaii,0,15,0,0,01/01/2020
+Missouri,3,29,2,5,01/01/2020
+Montana,0,30,0,0,01/01/2020
+New Hampshire,0,33,0,0,01/01/2020
+North Dakota,0,38,0,0,01/01/2020
+Ohio,0,39,4,4,01/01/2020
+Rhode Island,0,44,0,0,01/01/2020
+Vermont,0,50,0,0,01/01/2020
+West Virginia,0,54,7,7,01/01/2020
+Wyoming,0,56,0,0,01/01/2020
+Colorado,0,8,5,5,11/01/2020
+Illinois,0,17,5,5,16/01/2020
+Utah,4,49,1,5,17/01/2020
+Texas,2,48,2,4,18/01/2020
+Missouri,2,29,15,17,19/01/2020
+Tennessee,1,47,4,5,19/01/2020
+Texas,2,48,5,7,19/01/2020
+New York,0,36,4,4,02/01/2020
+Washington,1,53,7,8,22/01/2020
+North Carolina,5,37,0,5,24/01/2020
+Missouri,0,29,5,5,26/01/2020
+New York,3,36,1,4,26/01/2020
+North Carolina,0,37,6,6,26/01/2020
+South Carolina,3,45,3,6,26/01/2020
+Connecticut,0,9,4,4,27/01/2020
+California,0,6,4,4,30/01/2020
+California,1,6,4,5,31/01/2020
+Florida,1,12,3,4,31/01/2020
+Louisiana,0,22,4,4,31/01/2020
+Florida,1,12,3,4,04/01/2020
+Georgia,0,13,4,4,05/01/2020
+Mississippi,2,27,2,4,08/01/2020
+California,0,6,4,4,01/07/2020
+Louisiana,0,22,4,4,01/07/2020
+Delaware,0,10,5,5,11/07/2020
+New York,0,36,6,6,11/07/2020
+Florida,2,12,2,4,12/07/2020
+Illinois,1,17,3,4,12/07/2020
+Illinois,1,17,4,5,12/07/2020
+Louisiana,1,22,7,8,12/07/2020
+Michigan,0,26,5,5,12/07/2020
+Mississippi,2,27,4,6,12/07/2020
+New York,1,36,3,4,12/07/2020
+Kentucky,1,21,3,4,13/07/2020
+New York,0,36,6,6,13/07/2020
+Washington,0,53,6,6,13/07/2020
+Missouri,0,29,5,5,14/07/2020
+North Carolina,0,37,8,8,14/07/2020
+Louisiana,1,22,3,4,15/07/2020
+New York,1,36,5,6,15/07/2020
+Tennessee,0,47,5,5,16/07/2020
+Florida,0,12,4,4,17/07/2020
+Ohio,0,39,4,4,17/07/2020
+Illinois,1,17,4,5,18/07/2020
+District of Columbia,1,11,8,9,19/07/2020
+Illinois,2,17,3,5,19/07/2020
+Illinois,0,17,13,13,19/07/2020
+Michigan,1,26,3,4,19/07/2020
+Michigan,4,26,0,4,19/07/2020
+Nebraska,0,31,8,8,19/07/2020
+California,2,6,3,5,02/07/2020
+Massachusetts,0,25,4,4,02/07/2020
+New Jersey,1,34,4,5,02/07/2020
+Illinois,0,17,5,5,20/07/2020
+Virginia,1,51,4,5,20/07/2020
+Illinois,0,17,15,15,21/07/2020
+Michigan,0,26,4,4,22/07/2020
+Illinois,2,17,4,6,23/07/2020
+Virginia,1,51,3,4,23/07/2020
+Virginia,0,51,4,4,23/07/2020
+Georgia,2,13,2,4,24/07/2020
+California,0,6,7,7,25/07/2020
+Colorado,2,8,3,5,25/07/2020
+Florida,1,12,3,4,25/07/2020
+Michigan,0,26,6,6,25/07/2020
+North Carolina,0,37,4,4,25/07/2020
+Texas,0,48,4,4,25/07/2020
+Arkansas,0,5,4,4,26/07/2020
+Colorado,1,8,3,4,26/07/2020
+Kentucky,1,21,3,4,26/07/2020
+Michigan,1,26,3,4,26/07/2020
+Texas,0,48,4,4,26/07/2020
+Illinois,1,17,4,5,27/07/2020
+Washington,1,53,3,4,27/07/2020
+Delaware,2,10,2,4,28/07/2020
+Wisconsin,0,55,4,4,28/07/2020
+Michigan,0,26,4,4,29/07/2020
+Missouri,3,29,2,5,29/07/2020
+Ohio,5,39,0,5,29/07/2020
+Alabama,1,1,3,4,29/07/2020
+Maryland,0,24,4,4,29/07/2020
+Florida,0,12,5,5,29/07/2020
+Florida,0,12,5,5,29/07/2020
+Pennsylvania,1,42,3,4,29/07/2020
+Georgia,0,13,5,5,04/07/2020
+Illinois,1,17,3,4,04/07/2020
+Illinois,4,17,4,8,04/07/2020
+Louisiana,0,22,4,4,04/07/2020
+Maryland,1,24,3,4,04/07/2020
+Massachusetts,1,25,4,5,04/07/2020
+Michigan,2,26,3,5,04/07/2020
+Mississippi,1,27,3,4,04/07/2020
+South Carolina,0,45,5,5,04/07/2020
+Arkansas,1,5,3,4,05/07/2020
+Georgia,2,13,13,15,05/07/2020
+Illinois,0,17,4,4,05/07/2020
+Illinois,1,17,5,6,05/07/2020
+Illinois,1,17,5,6,05/07/2020
+Iowa,1,19,3,4,05/07/2020
+Maryland,0,24,4,4,05/07/2020
+Michigan,2,26,4,6,05/07/2020
+Mississippi,0,27,4,4,05/07/2020
+Missouri,2,29,3,5,05/07/2020
+New York,0,36,5,5,05/07/2020
+Pennsylvania,0,42,4,4,05/07/2020
+South Carolina,2,45,8,10,05/07/2020
+Texas,0,48,4,4,05/07/2020
+Wisconsin,0,55,4,4,05/07/2020
+Illinois,0,17,6,6,06/07/2020
+New Jersey,4,34,3,7,07/07/2020
+Virginia,0,51,5,5,07/07/2020
+Missouri,0,29,4,4,01/06/2020
+California,1,6,4,5,10/06/2020
+California,2,6,4,6,10/06/2020
+Ohio,1,39,3,4,10/06/2020
+District of Columbia,0,11,7,7,11/06/2020
+Louisiana,6,22,0,6,11/06/2020
+Texas,2,48,4,6,11/06/2020
+Virginia,0,51,4,4,11/06/2020
+New York,1,36,3,4,12/06/2020
+Pennsylvania,0,42,6,6,12/06/2020
+Texas,0,48,8,8,12/06/2020
+Arkansas,0,5,4,4,13/06/2020
+California,0,6,5,5,13/06/2020
+District of Columbia,2,11,5,7,13/06/2020
+Georgia,2,13,5,7,13/06/2020
+Maryland,0,24,5,5,13/06/2020
+Missouri,2,29,4,6,13/06/2020
+New York,1,36,7,8,13/06/2020
+Kentucky,1,21,4,5,14/06/2020
+Louisiana,0,22,5,5,14/06/2020
+Louisiana,0,22,4,4,14/06/2020
+Louisiana,2,22,2,4,14/06/2020
+Minnesota,1,27,6,7,14/06/2020
+Illinois,0,17,4,4,15/06/2020
+Iowa,2,19,2,4,16/06/2020
+Illinois,0,17,4,4,17/06/2020
+New York,0,36,7,7,18/06/2020
+Illinois,0,17,4,4,02/06/2020
+Texas,1,48,3,4,02/06/2020
+Wisconsin,0,55,5,5,02/06/2020
+Kansas,0,20,5,5,20/06/2020
+Michigan,0,26,4,4,20/06/2020
+Michigan,1,26,3,4,20/06/2020
+New Jersey,1,34,4,5,20/06/2020
+New York,0,36,4,4,20/06/2020
+New York,1,36,8,9,20/06/2020
+New York,0,36,4,4,20/06/2020
+North Carolina,2,37,2,4,20/06/2020
+Wisconsin,0,55,5,5,20/06/2020
+Alabama,0,1,4,4,21/06/2020
+Illinois,1,17,3,4,21/06/2020
+Minnesota,0,27,11,11,21/06/2020
+New York,0,36,4,4,21/06/2020
+Texas,0,48,5,5,21/06/2020
+Texas,1,48,3,4,21/06/2020
+Wisconsin,0,55,5,5,21/06/2020
+California,0,6,5,5,22/06/2020
+Illinois,0,17,5,5,22/06/2020
+Illinois,0,17,4,4,22/06/2020
+Minnesota,0,27,4,4,22/06/2020
+Minnesota,0,27,4,4,22/06/2020
+New York,0,36,5,5,22/06/2020
+North Carolina,4,37,5,9,22/06/2020
+Ohio,1,39,4,5,22/06/2020
+Florida,0,12,5,5,23/06/2020
+Illinois,0,17,4,4,23/06/2020
+Tennessee,0,47,4,4,24/06/2020
+Connecticut,1,9,3,4,25/06/2020
+Pennsylvania,0,42,4,4,25/06/2020
+Arizona,0,4,4,4,26/06/2020
+California,0,6,4,4,26/06/2020
+Colorado,0,8,5,5,26/06/2020
+Arkansas,3,5,1,4,27/06/2020
+California,3,6,4,7,27/06/2020
+Illinois,2,17,2,4,27/06/2020
+Illinois,0,17,4,4,27/06/2020
+New York,0,36,4,4,27/06/2020
+Alabama,0,1,7,7,28/06/2020
+Pennsylvania,2,42,2,4,28/06/2020
+California,0,6,4,4,29/06/2020
+South Dakota,1,45,3,4,29/06/2020
+Arkansas,0,5,4,4,30/06/2020
+Georgia,1,13,4,5,30/06/2020
+Illinois,0,17,4,4,30/06/2020
+Iowa,0,19,5,5,30/06/2020
+Massachusetts,1,25,3,4,30/06/2020
+Ohio,0,39,4,4,30/06/2020
+Alabama,7,1,0,7,04/06/2020
+Colorado,0,8,4,4,05/06/2020
+California,1,6,4,5,06/06/2020
+Mississippi,0,27,5,5,06/06/2020
+Missouri,1,29,4,5,06/06/2020
+Ohio,0,39,4,4,06/06/2020
+Arkansas,0,5,5,5,07/06/2020
+Illinois,1,17,3,4,07/06/2020
+Illinois,1,17,3,4,07/06/2020
+Illinois,0,17,6,6,07/06/2020
+Missouri,2,29,7,9,07/06/2020
+Tennessee,0,47,5,5,07/06/2020
+New York,0,36,4,4,08/06/2020
+Tennessee,0,47,4,4,08/06/2020
+California,2,6,3,5,09/06/2020
+North Carolina,0,37,5,5,09/06/2020
+Pennsylvania,1,42,6,7,09/06/2020
+Pennsylvania,2,42,2,4,10/03/2020
+Illinois,0,17,4,4,13/03/2020
+Louisiana,0,22,5,5,13/03/2020
+Michigan,2,26,2,4,14/03/2020
+New Mexico,1,35,3,4,14/03/2020
+Missouri,5,29,2,7,15/03/2020
+North Carolina,7,37,0,7,15/03/2020
+Maryland,0,24,7,7,17/03/2020
+Florida,1,12,4,5,18/03/2020
+Missouri,0,29,4,4,20/03/2020
+Virginia,0,51,4,4,20/03/2020
+South Carolina,0,45,4,4,22/03/2020
+Texas,0,48,4,4,23/03/2020
+Maryland,1,24,3,4,28/03/2020
+Georgia,0,13,4,4,29/03/2020
+Pennsylvania,0,42,5,5,30/03/2020
+Georgia,3,13,1,4,31/03/2020
+California,1,6,5,6,04/03/2020
+District of Columbia,0,11,6,6,06/03/2020
+Illinois,0,17,7,7,07/03/2020
+New Mexico,0,35,4,4,07/03/2020
+Ohio,1,39,18,19,07/03/2020
+California,1,6,3,4,08/03/2020
+Illinois,0,17,4,4,08/03/2020
+Maryland,1,24,5,6,08/03/2020
+Louisiana,0,22,5,5,10/05/2020
+Texas,0,48,5,5,10/05/2020
+Texas,0,48,6,6,10/05/2020
+Alabama,0,1,4,4,11/05/2020
+Illinois,1,17,4,5,13/05/2020
+Kentucky,1,21,4,5,13/05/2020
+Tennessee,0,47,4,4,13/05/2020
+New Mexico,0,35,5,5,14/05/2020
+Florida,0,12,5,5,15/05/2020
+Pennsylvania,0,42,4,4,15/05/2020
+Louisiana,0,22,13,13,16/05/2020
+Maryland,0,24,3,3,17/05/2020
+South Carolina,0,45,4,4,17/05/2020
+South Carolina,4,45,1,5,17/05/2020
+California,0,6,5,5,18/05/2020
+Illinois,0,17,5,5,19/05/2020
+Pennsylvania,0,42,4,4,02/05/2020
+Texas,2,48,3,5,20/05/2020
+Ohio,1,39,3,4,22/05/2020
+Florida,0,12,5,5,23/05/2020
+Florida,0,12,6,6,23/05/2020
+Illinois,1,17,4,5,23/05/2020
+Illinois,1,17,3,4,23/05/2020
+Michigan,1,26,3,4,23/05/2020
+Mississippi,1,27,4,5,23/05/2020
+North Carolina,0,37,6,6,23/05/2020
+South Carolina,2,45,5,7,23/05/2020
+Texas,0,48,4,4,23/05/2020
+Alabama,3,1,1,4,24/05/2020
+Missouri,0,29,4,4,24/05/2020
+South Carolina,0,45,4,4,24/05/2020
+Louisiana,0,22,6,6,25/05/2020
+California,0,6,5,5,26/05/2020
+Illinois,2,17,2,4,26/05/2020
+Mississippi,0,27,4,4,26/05/2020
+Pennsylvania,0,42,4,4,26/05/2020
+South Carolina,3,45,5,8,26/05/2020
+California,0,6,5,5,27/05/2020
+Massachusetts,1,25,4,5,27/05/2020
+Ohio,1,39,3,4,27/05/2020
+Pennsylvania,0,42,4,4,27/05/2020
+Kentucky,0,21,7,7,28/05/2020
+Pennsylvania,1,42,3,4,28/05/2020
+Tennessee,0,47,4,4,28/05/2020
+Virginia,0,51,5,5,29/05/2020
+Florida,1,12,3,4,03/05/2020
+Illinois,0,17,5,5,03/05/2020
+Ohio,0,39,4,4,03/05/2020
+District of Columbia,0,11,4,4,30/05/2020
+Florida,2,12,4,6,30/05/2020
+New Jersey,0,34,4,4,30/05/2020
+North Carolina,1,37,5,6,30/05/2020
+Texas,1,48,4,5,30/05/2020
+Mississippi,1,27,5,6,31/05/2020
+Pennsylvania,0,42,4,4,31/05/2020
+Georgia,1,13,3,4,06/05/2020
+Tennessee,2,47,2,4,06/05/2020
+Texas,3,48,1,4,06/05/2020
+Maryland,0,24,4,4,07/05/2020
+Missouri,0,29,4,4,09/05/2020
+Arizona,2,4,2,4,01/11/2020
+Indiana,0,18,4,4,01/11/2020
+New Jersey,1,34,4,5,01/11/2020
+North Carolina,1,37,3,4,01/11/2020
+Oklahoma,1,40,3,4,01/11/2020
+South Carolina,0,45,6,6,01/11/2020
+Florida,1,12,7,8,10/11/2020
+Florida,2,12,4,6,12/11/2020
+North Carolina,0,37,6,6,12/11/2020
+California,2,6,3,5,14/11/2020
+Missouri,0,29,4,4,14/11/2020
+Ohio,0,39,4,4,14/11/2020
+South Carolina,3,45,1,4,14/11/2020
+Georgia,2,13,2,4,15/11/2020
+Louisiana,0,22,5,5,15/11/2020
+Florida,0,12,4,4,16/11/2020
+Illinois,0,17,4,4,16/11/2020
+Illinois,0,17,4,4,16/11/2020
+Tennessee,0,47,4,4,17/11/2020
+South Carolina,0,45,4,4,18/11/2020
+Texas,3,48,2,5,18/11/2020
+Florida,1,12,3,4,19/11/2020
+Ohio,0,39,5,5,02/11/2020
+Wisconsin,0,55,8,8,20/11/2020
+Arizona,1,4,4,5,21/11/2020
+Illinois,0,17,6,6,21/11/2020
+Nebraska,2,31,2,4,21/11/2020
+Illinois,1,17,3,4,22/11/2020
+Louisiana,1,22,3,4,22/11/2020
+New Jersey,0,34,4,4,22/11/2020
+New York,1,36,6,7,22/11/2020
+Nevada,1,32,5,6,26/11/2020
+Georgia,1,13,5,6,27/11/2020
+Ohio,0,39,6,6,27/11/2020
+Louisiana,0,22,4,4,28/11/2020
+South Carolina,1,45,10,11,28/11/2020
+South Carolina,0,45,5,5,28/11/2020
+Mississippi,0,27,11,11,29/11/2020
+Tennessee,2,47,3,5,29/11/2020
+Nevada,4,32,1,5,03/11/2020
+Alaska,4,2,0,4,30/11/2020
+Missouri,0,29,4,4,04/11/2020
+Ohio,3,39,2,5,05/11/2020
+Louisiana,2,22,2,4,06/11/2020
+Kansas,0,20,4,4,07/11/2020
+South Carolina,1,45,3,4,07/11/2020
+Tennessee,0,47,8,8,08/11/2020
+Virginia,0,51,4,4,08/11/2020
+Texas,0,48,4,4,09/11/2020
+Michigan,0,26,5,5,01/10/2020
+Illinois,1,17,3,4,10/10/2020
+Missouri,2,29,2,4,10/10/2020
+South Carolina,0,45,8,8,10/10/2020
+Georgia,0,13,4,4,11/10/2020
+South Carolina,2,45,3,5,12/10/2020
+Pennsylvania,0,42,4,4,14/10/2020
+Louisiana,2,22,2,4,15/10/2020
+Maryland,0,24,7,7,15/10/2020
+Arizona,1,4,6,7,16/10/2020
+California,2,6,4,6,16/10/2020
+California,1,6,3,4,16/10/2020
+Florida,3,12,1,4,16/10/2020
+New York,1,36,5,6,17/10/2020
+South Carolina,0,45,5,5,17/10/2020
+Illinois,1,17,4,5,18/10/2020
+Maryland,1,24,3,4,18/10/2020
+Tennessee,0,47,4,4,18/10/2020
+Louisiana,1,22,3,4,19/10/2020
+Ohio,0,39,5,5,19/10/2020
+California,0,6,4,4,02/10/2020
+Washington,0,53,4,4,02/10/2020
+Texas,3,48,1,4,20/10/2020
+Mississippi,2,27,2,4,21/10/2020
+New York,1,36,5,6,21/10/2020
+Florida,1,12,3,4,22/10/2020
+Louisiana,0,22,5,5,22/10/2020
+Maryland,0,24,4,4,22/10/2020
+Massachusetts,0,25,4,4,22/10/2020
+Mississippi,2,27,8,10,24/10/2020
+North Carolina,1,37,3,4,25/10/2020
+Texas,2,48,3,5,25/10/2020
+Texas,1,48,3,4,25/10/2020
+New Jersey,1,34,3,4,28/10/2020
+Virginia,0,51,4,4,28/10/2020
+Florida,0,12,4,4,29/10/2020
+California,1,6,3,4,03/10/2020
+Tennessee,0,47,5,5,03/10/2020
+Illinois,1,17,3,4,30/10/2020
+Maryland,1,24,3,4,30/10/2020
+California,0,6,4,4,31/10/2020
+California,0,6,4,4,31/10/2020
+Maryland,0,24,7,7,31/10/2020
+Nevada,0,32,4,4,31/10/2020
+Washington,0,53,5,5,31/10/2020
+Georgia,1,13,5,6,04/10/2020
+Indiana,3,18,4,7,04/10/2020
+District of Columbia,1,11,3,4,05/10/2020
+Alaska,1,2,4,5,07/10/2020
+New York,1,36,3,4,07/10/2020
+Pennsylvania,1,42,6,7,08/10/2020
+Louisiana,3,22,2,5,10/09/2020
+Louisiana,0,22,5,5,11/09/2020
+Illinois,2,17,4,6,12/09/2020
+North Carolina,0,37,5,5,12/09/2020
+Pennsylvania,0,42,4,4,12/09/2020
+Florida,0,12,4,4,13/09/2020
+Illinois,1,17,3,4,13/09/2020
+Michigan,0,26,7,7,13/09/2020
+New Jersey,2,34,7,9,13/09/2020
+Tennessee,3,47,3,6,13/09/2020
+Louisiana,0,22,4,4,14/09/2020
+California,2,6,4,6,15/09/2020
+Illinois,0,17,5,5,15/09/2020
+Pennsylvania,2,42,3,5,16/09/2020
+Arkansas,0,5,4,4,18/09/2020
+Arkansas,0,5,5,5,19/09/2020
+Illinois,0,17,4,4,19/09/2020
+Illinois,0,17,4,4,19/09/2020
+New Jersey,0,34,4,4,19/09/2020
+New Jersey,0,34,5,5,19/09/2020
+New York,1,36,4,5,19/09/2020
+New York,2,36,14,16,19/09/2020
+California,0,6,4,4,02/09/2020
+Georgia,1,13,3,4,02/09/2020
+Pennsylvania,2,42,2,4,02/09/2020
+Connecticut,1,9,3,4,20/09/2020
+New York,0,36,4,4,20/09/2020
+Ohio,1,39,4,5,21/09/2020
+Georgia,1,13,3,4,23/09/2020
+Minnesota,0,27,5,5,23/09/2020
+Pennsylvania,0,42,4,4,25/09/2020
+Illinois,0,17,4,4,26/09/2020
+Iowa,2,19,6,8,26/09/2020
+Missouri,0,29,5,5,26/09/2020
+Pennsylvania,0,42,4,4,26/09/2020
+California,1,6,3,4,27/09/2020
+Ohio,1,39,3,4,27/09/2020
+Tennessee,0,47,4,4,27/09/2020
+Michigan,0,26,6,6,28/09/2020
+Ohio,2,39,2,4,29/09/2020
+Pennsylvania,0,42,5,5,29/09/2020
+Arkansas,1,5,3,4,03/09/2020
+Arkansas,0,5,4,4,03/09/2020
+Florida,1,12,3,4,03/09/2020
+Pennsylvania,0,42,6,6,03/09/2020
+South Carolina,1,45,3,4,03/09/2020
+Florida,0,12,4,4,30/09/2020
+North Carolina,0,37,4,4,30/09/2020
+Wisconsin,0,55,7,7,30/09/2020
+Arkansas,0,5,4,4,05/09/2020
+Florida,0,12,6,6,05/09/2020
+Maryland,1,24,3,4,05/09/2020
+Texas,0,48,4,4,05/09/2020
+Colorado,0,8,4,4,06/09/2020
+Georgia,1,13,6,7,06/09/2020
+Illinois,0,17,4,4,06/09/2020
+Louisiana,0,22,5,5,06/09/2020
+Maryland,0,24,4,4,06/09/2020
+Missouri,0,29,6,6,06/09/2020
+Missouri,1,29,3,4,06/09/2020
+Tennessee,0,47,4,4,06/09/2020
+California,7,6,0,7,07/09/2020
+Indiana,1,18,4,5,07/09/2020
+Louisiana,0,22,4,4,07/09/2020
+New York,0,36,5,5,07/09/2020
+Maryland,0,24,5,5,08/09/2020
