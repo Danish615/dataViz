@@ -1,52 +1,154 @@
-﻿State,AverageTemperature,id
-Alabama,62.8,1
-Alaska,26.6,2
-Arizona,60.3,4
-Arkansas,60.4,5
-California,59.4,6
-Colorado,45.1,8
-Connecticut,49,9
-Delaware,55.3,10
-District of Columbia,48.3,11
-Florida,70.7,12
-Georgia,63.5,13
-Hawaii,70,15
-Idaho,44.4,16
-Illinois,51.8,17
-Indiana,51.7,18
-Iowa,47.8,19
-Kansas,54.3,20
-Kentucky,55.6,21
-Louisiana,66.4,22
-Maine,41,23
-Maryland,54.2,24
-Massachusetts,47.9,25
-Michigan,44.4,26
-Minnesota,41.2,27
-Mississippi,63.4,28
-Missouri,54.6,29
-Montana,42.7,30
-Nebraska,48.8,31
-Nevada,49.9,32
-New Hampshire,43.8,33
-New Jersey,52.7,34
-New Mexico,53.4,35
-New York,45.4,36
-North Carolina,59,37
-North Dakota,40.4,38
-Ohio,50.7,39
-Oklahoma,59.6,40
-Oregon,48.4,41
-Pennsylvania,48.8,42
-Rhode Island,50.1,44
-South Carolina,62.4,45
-South Dakota,45.2,46
-Tennessee,57.6,47
-Texas,64.8,48
-Utah,48.6,49
-Vermont,42.9,50
-Virginia,55.1,51
-Washington,48.3,53
-West Virginia,51.8,54
-Wisconsin,43.1,55
-Wyoming,42,56
+State,AverageTemperature,id,year
+Alabama,62.8,1,2020
+Alaska,26.6,2,2020
+Arizona,60.3,4,2020
+Arkansas,60.4,5,2020
+California,59.4,6,2020
+Colorado,45.1,8,2020
+Connecticut,49,9,2020
+Delaware,55.3,10,2020
+District of Columbia,48.3,11,2020
+Florida,70.7,12,2020
+Georgia,63.5,13,2020
+Hawaii,70,15,2020
+Idaho,44.4,16,2020
+Illinois,51.8,17,2020
+Indiana,51.7,18,2020
+Iowa,47.8,19,2020
+Kansas,54.3,20,2020
+Kentucky,55.6,21,2020
+Louisiana,66.4,22,2020
+Maine,41,23,2020
+Maryland,54.2,24,2020
+Massachusetts,47.9,25,2020
+Michigan,44.4,26,2020
+Minnesota,41.2,27,2020
+Mississippi,63.4,28,2020
+Missouri,54.6,29,2020
+Montana,42.7,30,2020
+Nebraska,48.8,31,2020
+Nevada,49.9,32,2020
+New Hampshire,43.8,33,2020
+New Jersey,52.7,34,2020
+New Mexico,53.4,35,2020
+New York,45.4,36,2020
+North Carolina,59,37,2020
+North Dakota,40.4,38,2020
+Ohio,50.7,39,2020
+Oklahoma,59.6,40,2020
+Oregon,48.4,41,2020
+Pennsylvania,48.8,42,2020
+Rhode Island,50.1,44,2020
+South Carolina,62.4,45,2020
+South Dakota,45.2,46,2020
+Tennessee,57.6,47,2020
+Texas,64.8,48,2020
+Utah,48.6,49,2020
+Vermont,42.9,50,2020
+Virginia,55.1,51,2020
+Washington,48.3,53,2020
+West Virginia,51.8,54,2020
+Wisconsin,43.1,55,2020
+Wyoming,42,56,2020
+Alabama,65.4,1,2019
+Alaska,31.1,2,2019
+Arizona,60.3,4,2019
+Arkansas,61.3,5,2019
+California,58.4,6,2019
+Colorado,45.3,8,2019
+Connecticut,49.9,9,2019
+Delaware,57.6,10,2019
+District of Columbia,47.5,11,2019
+Florida,73.2,12,2019
+Georgia,66.3,13,2019
+Hawaii,71,15,2019
+Idaho,43,16,2019
+Illinois,52.1,17,2019
+Indiana,52.4,18,2019
+Iowa,46.9,19,2019
+Kansas,53.9,20,2019
+Kentucky,57.6,21,2019
+Louisiana,67.8,22,2019
+Maine,40.7,23,2019
+Maryland,56.6,24,2019
+Massachusetts,48.7,25,2019
+Michigan,44,26,2019
+Minnesota,39.3,27,2019
+Mississippi,65.1,28,2019
+Missouri,55,29,2019
+Montana,40,30,2019
+Nebraska,47.5,31,2019
+Nevada,49.9,32,2019
+New Hampshire,43.3,33,2019
+New Jersey,54.3,34,2019
+New Mexico,54.5,35,2019
+New York,45.3,36,2019
+North Carolina,61.3,37,2019
+North Dakota,38.1,38,2019
+Ohio,52.4,39,2019
+Oklahoma,59.8,40,2019
+Oregon,47.2,41,2019
+Pennsylvania,49.9,42,2019
+Rhode Island,50.6,44,2019
+South Carolina,65.1,45,2019
+South Dakota,42.5,46,2019
+Tennessee,59.9,47,2019
+Texas,65.9,48,2019
+Utah,47.9,49,2019
+Vermont,41.9,50,2019
+Virginia,57.5,51,2019
+Washington,46.6,53,2019
+West Virginia,54.2,54,2019
+Wisconsin,42.1,55,2019
+Wyoming,40.4,56,2019
+Alabama,64.5,1,2018
+Alaska,27.5,2,2018
+Arizona,62.3,4,2018
+Arkansas,61.2,5,2018
+California,60.2,6,2018
+Colorado,47.2,8,2018
+Connecticut,50.8,9,2018
+Delaware,57.2,10,2018
+District of Columbia,45.4,11,2018
+Florida,72.3,12,2018
+Georgia,65.1,13,2018
+Hawaii,72.3,15,2018
+Idaho,44.6,16,2018
+Illinois,52.5,17,2018
+Indiana,52.6,18,2018
+Iowa,47.5,19,2018
+Kansas,54.6,20,2018
+Kentucky,57,21,2018
+Louisiana,67.8,22,2018
+Maine,41.8,23,2018
+Maryland,56,24,2018
+Massachusetts,49.5,25,2018
+Michigan,45.2,26,2018
+Minnesota,40.6,27,2018
+Mississippi,64.8,28,2018
+Missouri,55.2,29,2018
+Montana,41.3,30,2018
+Nebraska,48.3,31,2018
+Nevada,52.1,32,2018
+New Hampshire,44.5,33,2018
+New Jersey,54.2,34,2018
+New Mexico,55.6,35,2018
+New York,46.2,36,2018
+North Carolina,60.5,37,2018
+North Dakota,39.8,38,2018
+Ohio,52.2,39,2018
+Oklahoma,60.2,40,2018
+Oregon,48.5,41,2018
+Pennsylvania,49.8,42,2018
+Rhode Island,51.6,44,2018
+South Carolina,64.3,45,2018
+South Dakota,44.2,46,2018
+Tennessee,59.1,47,2018
+Texas,66,48,2018
+Utah,50.4,49,2018
+Vermont,43.3,50,2018
+Virginia,56.6,51,2018
+Washington,48.1,53,2018
+West Virginia,53.3,54,2018
+Wisconsin,43.3,55,2018
+Wyoming,42.5,56,2018
