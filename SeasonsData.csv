@@ -1,4 +1,4 @@
-date,killed,injured,KilledOrInjured,Season,year
+date,killed,injured,KilledAndInjured,Season,year
 December,8,14,22,Winter,2021
 November,55,175,230,Fall,2021
 October,71,308,379,Fall,2021
