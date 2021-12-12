@@ -1,154 +1,154 @@
-State,Killed,Injured,AverageTemperature,id,year
-Alabama,15,34,62.8,1,2020
-Alaska,5,8,26.6,2,2020
-Arizona,4,16,60.3,4,2020
-Arkansas,10,48,60.4,5,2020
-California,37,153,59.4,6,2020
-Colorado,6,52,45.1,8,2020
-Connecticut,7,27,49,9,2020
-Delaware,3,11,55.3,10,2020
-District of Columbia,5,58,48.3,11,2020
-Florida,26,133,70.7,12,2020
-Georgia,0,0,63.5,13,2020
-Hawaii,18,73,70,15,2020
-Idaho,2,3,44.4,16,2020
-Illinois,42,297,51.8,17,2020
-Indiana,9,23,51.7,18,2020
-Iowa,5,16,47.8,19,2020
-Kansas,0,9,54.3,20,2020
-Kentucky,6,44,55.6,21,2020
-Louisiana,21,113,66.4,22,2020
-Maine,3,1,41,23,2020
-Maryland,10,78,54.2,24,2020
-Massachusetts,5,33,47.9,25,2020
-Michigan,21,75,44.4,26,2020
-Minnesota,1,34,41.2,27,2020
-Mississippi,19,70,63.4,28,2020
-Missouri,25,96,54.6,29,2020
-Montana,0,0,42.7,30,2020
-Nebraska,2,10,48.8,31,2020
-Nevada,7,12,49.9,32,2020
-New Hampshire,0,0,43.8,33,2020
-New Jersey,11,51,52.7,34,2020
-New Mexico,1,12,53.4,35,2020
-New York,20,175,45.4,36,2020
-North Carolina,26,80,59,37,2020
-North Dakota,0,0,40.4,38,2020
-Ohio,22,111,50.7,39,2020
-Oklahoma,1,7,59.6,40,2020
-Oregon,1,7,48.4,41,2020
-Pennsylvania,15,139,48.8,42,2020
-Rhode Island,0,0,50.1,44,2020
-South Carolina,24,98,62.4,45,2020
-South Dakota,1,3,45.2,46,2020
-Tennessee,9,85,57.6,47,2020
-Texas,37,124,64.8,48,2020
-Utah,4,1,48.6,49,2020
-Vermont,0,0,42.9,50,2020
-Virginia,3,46,55.1,51,2020
-Washington,2,25,48.3,53,2020
-West Virginia,10,7,51.8,54,2020
-Wisconsin,11,42,43.1,55,2020
-Wyoming,0,0,42,56,2020
-Alabama,17,47,65.4,1,2019
-Alaska,0,0,31.1,2,2019
-Arizona,7,26,60.3,4,2019
-Arkansas,3,20,61.3,5,2019
-California,65,193,58.4,6,2019
-Colorado,2,20,45.3,8,2019
-Connecticut,1,12,49.9,9,2019
-Delaware,0,10,57.6,10,2019
-District of Columbia,4,28,47.5,11,2019
-Florida,20,54,73.2,12,2019
-Georgia,0,0,66.3,13,2019
-Hawaii,16,74,71,15,2019
-Idaho,0,0,43,16,2019
-Illinois,28,182,52.1,17,2019
-Indiana,6,49,52.4,18,2019
-Iowa,3,11,46.9,19,2019
-Kansas,5,16,53.9,20,2019
-Kentucky,6,18,57.6,21,2019
-Louisiana,20,106,67.8,22,2019
-Maine,0,0,40.7,23,2019
-Maryland,12,85,56.6,24,2019
-Massachusetts,7,17,48.7,25,2019
-Michigan,8,35,44,26,2019
-Minnesota,1,12,39.3,27,2019
-Mississippi,8,21,65.1,28,2019
-Missouri,20,60,55,29,2019
-Montana,5,4,40,30,2019
-Nebraska,0,4,47.5,31,2019
-Nevada,1,14,49.9,32,2019
-New Hampshire,0,0,43.3,33,2019
-New Jersey,12,47,54.3,34,2019
-New Mexico,8,18,54.5,35,2019
-New York,7,43,45.3,36,2019
-North Carolina,13,40,61.3,37,2019
-North Dakota,0,0,38.1,38,2019
-Ohio,20,61,52.4,39,2019
-Oklahoma,5,12,59.8,40,2019
-Oregon,0,5,47.2,41,2019
-Pennsylvania,13,84,49.9,42,2019
-Rhode Island,0,0,50.6,44,2019
-South Carolina,10,42,65.1,45,2019
-South Dakota,0,0,42.5,46,2019
-Tennessee,3,32,59.9,47,2019
-Texas,73,142,65.9,48,2019
-Utah,0,0,47.9,49,2019
-Vermont,0,0,41.9,50,2019
-Virginia,21,41,57.5,51,2019
-Washington,8,12,46.6,53,2019
-West Virginia,0,0,54.2,54,2019
-Wisconsin,5,10,42.1,55,2019
-Wyoming,2,2,40.4,56,2019
-Alabama,12,55,64.5,1,2018
-Alaska,0,0,27.5,2,2018
-Arizona,4,5,62.3,4,2018
-Arkansas,7,17,61.2,5,2018
-California,50,136,60.2,6,2018
-Colorado,9,27,47.2,8,2018
-Connecticut,0,8,50.8,9,2018
-Delaware,5,0,57.2,10,2018
-District of Columbia,2,23,45.4,11,2018
-Florida,49,130,72.3,12,2018
-Georgia,0,0,65.1,13,2018
-Hawaii,3,33,72.3,15,2018
-Idaho,0,0,44.6,16,2018
-Illinois,21,150,52.5,17,2018
-Indiana,7,22,52.6,18,2018
-Iowa,0,0,47.5,19,2018
-Kansas,1,11,54.6,20,2018
-Kentucky,7,25,57,21,2018
-Louisiana,15,49,67.8,22,2018
-Maine,0,0,41.8,23,2018
-Maryland,13,31,56,24,2018
-Massachusetts,0,4,49.5,25,2018
-Michigan,11,27,45.2,26,2018
-Minnesota,1,13,40.6,27,2018
-Mississippi,1,17,64.8,28,2018
-Missouri,14,51,55.2,29,2018
-Montana,0,0,41.3,30,2018
-Nebraska,1,16,48.3,31,2018
-Nevada,3,15,52.1,32,2018
-New Hampshire,0,0,44.5,33,2018
-New Jersey,4,54,54.2,34,2018
-New Mexico,5,4,55.6,35,2018
-New York,5,53,46.2,36,2018
-North Carolina,13,34,60.5,37,2018
-North Dakota,0,0,39.8,38,2018
-Ohio,13,46,52.2,39,2018
-Oklahoma,2,19,60.2,40,2018
-Oregon,0,0,48.5,41,2018
-Pennsylvania,35,63,49.8,42,2018
-Rhode Island,0,0,51.6,44,2018
-South Carolina,5,19,64.3,45,2018
-South Dakota,0,0,44.2,46,2018
-Tennessee,19,68,59.1,47,2018
-Texas,28,59,66,48,2018
-Utah,0,4,50.4,49,2018
-Vermont,0,0,43.3,50,2018
-Virginia,2,17,56.6,51,2018
-Washington,4,9,48.1,53,2018
-West Virginia,0,0,53.3,54,2018
-Wisconsin,1,16,43.3,55,2018
-Wyoming,0,0,42.5,56,2018
+State,Killed,Injured,KilledOrInjured,AverageTemperature,id,year
+Alabama,15,34,49,62.8,1,2020
+Alaska,5,8,13,26.6,2,2020
+Arizona,4,16,20,60.3,4,2020
+Arkansas,10,48,58,60.4,5,2020
+California,37,153,190,59.4,6,2020
+Colorado,6,52,58,45.1,8,2020
+Connecticut,7,27,34,49,9,2020
+Delaware,3,11,14,55.3,10,2020
+District of Columbia,5,58,63,48.3,11,2020
+Florida,26,133,159,70.7,12,2020
+Georgia,0,0,0,63.5,13,2020
+Hawaii,18,73,91,70,15,2020
+Idaho,2,3,5,44.4,16,2020
+Illinois,42,297,339,51.8,17,2020
+Indiana,9,23,32,51.7,18,2020
+Iowa,5,16,21,47.8,19,2020
+Kansas,0,9,9,54.3,20,2020
+Kentucky,6,44,50,55.6,21,2020
+Louisiana,21,113,134,66.4,22,2020
+Maine,3,1,4,41,23,2020
+Maryland,10,78,88,54.2,24,2020
+Massachusetts,5,33,38,47.9,25,2020
+Michigan,21,75,96,44.4,26,2020
+Minnesota,1,34,35,41.2,27,2020
+Mississippi,19,70,89,63.4,28,2020
+Missouri,25,96,121,54.6,29,2020
+Montana,0,0,0,42.7,30,2020
+Nebraska,2,10,12,48.8,31,2020
+Nevada,7,12,19,49.9,32,2020
+New Hampshire,0,0,0,43.8,33,2020
+New Jersey,11,51,62,52.7,34,2020
+New Mexico,1,12,13,53.4,35,2020
+New York,20,175,195,45.4,36,2020
+North Carolina,26,80,106,59,37,2020
+North Dakota,0,0,0,40.4,38,2020
+Ohio,22,111,133,50.7,39,2020
+Oklahoma,1,7,8,59.6,40,2020
+Oregon,1,7,8,48.4,41,2020
+Pennsylvania,15,139,154,48.8,42,2020
+Rhode Island,0,0,0,50.1,44,2020
+South Carolina,24,98,122,62.4,45,2020
+South Dakota,1,3,4,45.2,46,2020
+Tennessee,9,85,94,57.6,47,2020
+Texas,37,124,161,64.8,48,2020
+Utah,4,1,5,48.6,49,2020
+Vermont,0,0,0,42.9,50,2020
+Virginia,3,46,49,55.1,51,2020
+Washington,2,25,27,48.3,53,2020
+West Virginia,10,7,17,51.8,54,2020
+Wisconsin,11,42,53,43.1,55,2020
+Wyoming,0,0,0,42,56,2020
+Alabama,17,47,64,65.4,1,2019
+Alaska,0,0,0,31.1,2,2019
+Arizona,7,26,33,60.3,4,2019
+Arkansas,3,20,23,61.3,5,2019
+California,65,193,258,58.4,6,2019
+Colorado,2,20,22,45.3,8,2019
+Connecticut,1,12,13,49.9,9,2019
+Delaware,0,10,10,57.6,10,2019
+District of Columbia,4,28,32,47.5,11,2019
+Florida,20,54,74,73.2,12,2019
+Georgia,0,0,0,66.3,13,2019
+Hawaii,16,74,90,71,15,2019
+Idaho,0,0,0,43,16,2019
+Illinois,28,182,210,52.1,17,2019
+Indiana,6,49,55,52.4,18,2019
+Iowa,3,11,14,46.9,19,2019
+Kansas,5,16,21,53.9,20,2019
+Kentucky,6,18,24,57.6,21,2019
+Louisiana,20,106,126,67.8,22,2019
+Maine,0,0,0,40.7,23,2019
+Maryland,12,85,97,56.6,24,2019
+Massachusetts,7,17,24,48.7,25,2019
+Michigan,8,35,43,44,26,2019
+Minnesota,1,12,13,39.3,27,2019
+Mississippi,8,21,29,65.1,28,2019
+Missouri,20,60,80,55,29,2019
+Montana,5,4,9,40,30,2019
+Nebraska,0,4,4,47.5,31,2019
+Nevada,1,14,15,49.9,32,2019
+New Hampshire,0,0,0,43.3,33,2019
+New Jersey,12,47,59,54.3,34,2019
+New Mexico,8,18,26,54.5,35,2019
+New York,7,43,50,45.3,36,2019
+North Carolina,13,40,53,61.3,37,2019
+North Dakota,0,0,0,38.1,38,2019
+Ohio,20,61,81,52.4,39,2019
+Oklahoma,5,12,17,59.8,40,2019
+Oregon,0,5,5,47.2,41,2019
+Pennsylvania,13,84,97,49.9,42,2019
+Rhode Island,0,0,0,50.6,44,2019
+South Carolina,10,42,52,65.1,45,2019
+South Dakota,0,0,0,42.5,46,2019
+Tennessee,3,32,35,59.9,47,2019
+Texas,73,142,215,65.9,48,2019
+Utah,0,0,0,47.9,49,2019
+Vermont,0,0,0,41.9,50,2019
+Virginia,21,41,62,57.5,51,2019
+Washington,8,12,20,46.6,53,2019
+West Virginia,0,0,0,54.2,54,2019
+Wisconsin,5,10,15,42.1,55,2019
+Wyoming,2,2,4,40.4,56,2019
+Alabama,12,55,67,64.5,1,2018
+Alaska,0,0,0,27.5,2,2018
+Arizona,4,5,9,62.3,4,2018
+Arkansas,7,17,24,61.2,5,2018
+California,50,136,186,60.2,6,2018
+Colorado,9,27,36,47.2,8,2018
+Connecticut,0,8,8,50.8,9,2018
+Delaware,5,0,5,57.2,10,2018
+District of Columbia,2,23,25,45.4,11,2018
+Florida,49,130,179,72.3,12,2018
+Georgia,0,0,0,65.1,13,2018
+Hawaii,3,33,36,72.3,15,2018
+Idaho,0,0,0,44.6,16,2018
+Illinois,21,150,171,52.5,17,2018
+Indiana,7,22,29,52.6,18,2018
+Iowa,0,0,0,47.5,19,2018
+Kansas,1,11,12,54.6,20,2018
+Kentucky,7,25,32,57,21,2018
+Louisiana,15,49,64,67.8,22,2018
+Maine,0,0,0,41.8,23,2018
+Maryland,13,31,44,56,24,2018
+Massachusetts,0,4,4,49.5,25,2018
+Michigan,11,27,38,45.2,26,2018
+Minnesota,1,13,14,40.6,27,2018
+Mississippi,1,17,18,64.8,28,2018
+Missouri,14,51,65,55.2,29,2018
+Montana,0,0,0,41.3,30,2018
+Nebraska,1,16,17,48.3,31,2018
+Nevada,3,15,18,52.1,32,2018
+New Hampshire,0,0,0,44.5,33,2018
+New Jersey,4,54,58,54.2,34,2018
+New Mexico,5,4,9,55.6,35,2018
+New York,5,53,58,46.2,36,2018
+North Carolina,13,34,47,60.5,37,2018
+North Dakota,0,0,0,39.8,38,2018
+Ohio,13,46,59,52.2,39,2018
+Oklahoma,2,19,21,60.2,40,2018
+Oregon,0,0,0,48.5,41,2018
+Pennsylvania,35,63,98,49.8,42,2018
+Rhode Island,0,0,0,51.6,44,2018
+South Carolina,5,19,24,64.3,45,2018
+South Dakota,0,0,0,44.2,46,2018
+Tennessee,19,68,87,59.1,47,2018
+Texas,28,59,87,66,48,2018
+Utah,0,4,4,50.4,49,2018
+Vermont,0,0,0,43.3,50,2018
+Virginia,2,17,19,56.6,51,2018
+Washington,4,9,13,48.1,53,2018
+West Virginia,0,0,0,53.3,54,2018
+Wisconsin,1,16,17,43.3,55,2018
+Wyoming,0,0,0,42.5,56,2018
